@@ -1,0 +1,12 @@
+Files in /home/app: ['Dockerfile', 'IF.txt', 'Limerick-1.txt', 'script.py']
+
+Total words in IF.txt: 287
+Total words in Limerick-1.txt: 32
+Grand Total words: 319
+
+Top 3 words in IF.txt:
+you: 14 occurrences
+If: 13 occurrences
+can: 12 occurrences
+
+Machine IP address: 172.17.0.2
